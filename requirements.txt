@@ -1,2 +1,10 @@
 gunicorn
 gdown
+flask
+torch
+torchvision
+pillow
+numpy
+matplotlib
+gunicorn
+gdown
