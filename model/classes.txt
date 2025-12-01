@@ -1,0 +1,15 @@
+Brown Bear
+Crocodile
+Eagle
+Elephant
+Fox
+Giraffe
+Hippo
+Leopard
+Lion
+Polar Bear
+Rhino
+Squirrel
+Tiger
+Wolf
+Zebra
